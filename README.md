@@ -1,3 +1,3 @@
 # LGMVIP-DATASCIENCE
 
-This is the Repo from my Internship with THE SPARKS FOUNDATION in the month of November.
+Hello Everyone, I am contributing as a Data Science Intern in a Virtual Internship Program (VIP) at LetsGrowMore in the month of November.
